@@ -171,8 +171,8 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 ## 💬 Contact
 
 **Developer:** Your Name
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: [your.email@example.com](mailto;susanwanjiku093@gmail.com)
+🔗 GitHub: [@yourusername](https://github.com/suzanwanjiku)
 🌐 Live Demo: [https://aidcompassion.org](https://aidcompassion.org)
 
 ---
